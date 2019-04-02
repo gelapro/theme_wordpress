@@ -1,0 +1,7 @@
+{
+  "requires": true,
+  "dependencies": {
+    "tti-polyfill": "^0.2.2",
+    "workbox-sw": "^4.1.0"
+  }
+}
